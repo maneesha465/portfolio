@@ -2,7 +2,9 @@ import React from "react";
 
 const Education = () => {
   return (
-    <div className="p-10 md:p-24 text-white">
+    <div
+    id="Education"
+    className="pt-5 md:pt-10 px-10 md:px-24 text-white">
 
       {/* Heading */}
       <h1 className="text-2xl md:text-4xl font-bold">
